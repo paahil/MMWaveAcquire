@@ -1,0 +1,201 @@
+
+****** HW session Frame 0 ******
+frameIdx = 0
+subframeIdx = 0
+Frame 0 end at file location: 131072
+
+****** HW session Frame 1 ******
+frameIdx = 1
+subframeIdx = 0
+Frame 1 end at file location: 262144
+
+****** HW session Frame 2 ******
+frameIdx = 2
+subframeIdx = 0
+Frame 2 end at file location: 393216
+
+****** HW session Frame 3 ******
+frameIdx = 3
+subframeIdx = 0
+Frame 3 end at file location: 524288
+
+****** HW session Frame 4 ******
+frameIdx = 4
+subframeIdx = 0
+Frame 4 end at file location: 655360
+
+****** HW session Frame 5 ******
+frameIdx = 5
+subframeIdx = 0
+Frame 5 end at file location: 786432
+
+****** HW session Frame 6 ******
+frameIdx = 6
+subframeIdx = 0
+Frame 6 end at file location: 917504
+
+****** HW session Frame 7 ******
+frameIdx = 7
+subframeIdx = 0
+Frame 7 end at file location: 1048576
+
+****** HW session Frame 8 ******
+frameIdx = 8
+subframeIdx = 0
+Frame 8 end at file location: 1179648
+
+****** HW session Frame 9 ******
+frameIdx = 9
+subframeIdx = 0
+Frame 9 end at file location: 1310720
+
+****** HW session Frame 10 ******
+frameIdx = 10
+subframeIdx = 0
+Frame 10 end at file location: 1441792
+
+****** HW session Frame 11 ******
+frameIdx = 11
+subframeIdx = 0
+Frame 11 end at file location: 1572864
+
+****** HW session Frame 12 ******
+frameIdx = 12
+subframeIdx = 0
+Frame 12 end at file location: 1703936
+
+****** HW session Frame 13 ******
+frameIdx = 13
+subframeIdx = 0
+Frame 13 end at file location: 1835008
+
+****** HW session Frame 14 ******
+frameIdx = 14
+subframeIdx = 0
+Frame 14 end at file location: 1966080
+
+****** HW session Frame 15 ******
+frameIdx = 15
+subframeIdx = 0
+Frame 15 end at file location: 2097152
+
+****** HW session Frame 16 ******
+frameIdx = 16
+subframeIdx = 0
+Frame 16 end at file location: 2228224
+
+****** HW session Frame 17 ******
+frameIdx = 17
+subframeIdx = 0
+Frame 17 end at file location: 2359296
+
+****** HW session Frame 18 ******
+frameIdx = 18
+subframeIdx = 0
+Frame 18 end at file location: 2490368
+
+****** HW session Frame 19 ******
+frameIdx = 19
+subframeIdx = 0
+Frame 19 end at file location: 2621440
+
+****** HW session Frame 20 ******
+frameIdx = 20
+subframeIdx = 0
+Frame 20 end at file location: 2752512
+
+****** HW session Frame 21 ******
+frameIdx = 21
+subframeIdx = 0
+Frame 21 end at file location: 2883584
+
+****** HW session Frame 22 ******
+frameIdx = 22
+subframeIdx = 0
+Frame 22 end at file location: 3014656
+
+****** HW session Frame 23 ******
+frameIdx = 23
+subframeIdx = 0
+Frame 23 end at file location: 3145728
+
+****** HW session Frame 24 ******
+frameIdx = 24
+subframeIdx = 0
+Frame 24 end at file location: 3276800
+
+****** HW session Frame 25 ******
+frameIdx = 25
+subframeIdx = 0
+Frame 25 end at file location: 3407872
+
+****** HW session Frame 26 ******
+frameIdx = 26
+subframeIdx = 0
+Frame 26 end at file location: 3538944
+
+****** HW session Frame 27 ******
+frameIdx = 27
+subframeIdx = 0
+Frame 27 end at file location: 3670016
+
+****** HW session Frame 28 ******
+frameIdx = 28
+subframeIdx = 0
+Frame 28 end at file location: 3801088
+
+****** HW session Frame 29 ******
+frameIdx = 29
+subframeIdx = 0
+Frame 29 end at file location: 3932160
+
+****** HW session Frame 30 ******
+frameIdx = 30
+subframeIdx = 0
+Frame 30 end at file location: 4063232
+
+****** HW session Frame 31 ******
+frameIdx = 31
+subframeIdx = 0
+Frame 31 end at file location: 4194304
+
+****** HW session Frame 32 ******
+frameIdx = 32
+subframeIdx = 0
+Frame 32 end at file location: 4325376
+
+****** HW session Frame 33 ******
+frameIdx = 33
+subframeIdx = 0
+Frame 33 end at file location: 4456448
+
+****** HW session Frame 34 ******
+frameIdx = 34
+subframeIdx = 0
+Frame 34 end at file location: 4587520
+
+****** HW session Frame 35 ******
+frameIdx = 35
+subframeIdx = 0
+Frame 35 end at file location: 4718592
+
+****** HW session Frame 36 ******
+frameIdx = 36
+subframeIdx = 0
+Frame 36 end at file location: 4849664
+
+****** HW session Frame 37 ******
+frameIdx = 37
+subframeIdx = 0
+Frame 37 end at file location: 4980736
+
+****** HW session Frame 38 ******
+frameIdx = 38
+subframeIdx = 0
+Frame 38 end at file location: 5111808
+
+datacard_record_Raw_0.bin contains 5241600 bytes. 5111808 bytes/38 frames has been parsered.
+
+
+Captured file is correct!
+

@@ -1,0 +1,78 @@
+
+Mon Aug 15 10:41:57 2022
+Read Record Process Status (req)
+
+Mon Aug 15 10:41:57 2022
+No record process is running. [error -4002]
+
+Mon Aug 15 10:42:09 2022
+Read Record Process Status (req)
+
+Mon Aug 15 10:42:09 2022
+No record process is running. [error -4002]
+
+Mon Aug 15 10:42:16 2022
+FPGA Configuration Command (req)
+
+Mon Aug 15 10:42:26 2022
+FPGA Configuration : 
+Timeout Error! System disconnected
+
+Mon Aug 15 10:42:26 2022
+Return status : -5
+
+Mon Aug 15 10:42:34 2022
+Read Record Process Status (req)
+
+Mon Aug 15 10:42:34 2022
+No record process is running. [error -4002]
+
+Mon Aug 15 10:42:45 2022
+FPGA Configuration Command (req)
+
+Mon Aug 15 10:42:55 2022
+FPGA Configuration : 
+Timeout Error! System disconnected
+
+Mon Aug 15 10:42:55 2022
+Return status : -5
+
+Mon Aug 15 10:47:34 2022
+FPGA Configuration Command (req)
+
+Mon Aug 15 10:47:44 2022
+FPGA Configuration : 
+Timeout Error! System disconnected
+
+Mon Aug 15 10:47:44 2022
+Return status : -5
+
+Mon Aug 15 10:59:24 2022
+FPGA Configuration Command (req)
+
+Mon Aug 15 10:59:34 2022
+FPGA Configuration : 
+Timeout Error! System disconnected
+
+Mon Aug 15 10:59:34 2022
+Return status : -5
+
+Mon Aug 15 10:59:47 2022
+FPGA Configuration Command (req)
+
+Mon Aug 15 10:59:57 2022
+FPGA Configuration : 
+Timeout Error! System disconnected
+
+Mon Aug 15 10:59:57 2022
+Return status : -5
+
+Mon Aug 15 11:05:38 2022
+Reset FPGA Command (req)
+
+Mon Aug 15 11:05:48 2022
+Reset FPGA : 
+Timeout Error! System disconnected
+
+Mon Aug 15 11:05:48 2022
+Return status : -5
