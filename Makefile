@@ -1,22 +1,24 @@
-CXXFLAGS := -std=c++17 -DASIO_STANDALONE -DWIN32
+CXXFLAGS := -std=c++11 -DWIN32
 
 EXE:=datacard.exe
-BASEDIR = $(CURDIR)
+BASEDIR := $(CURDIR)
+SRCDIR :=  $(BASEDIR)/src
+TESTDIR := $(BASEDIR)/test
 
-ASIOINCLUDE := $(BASEDIR)/libs/asio/include
+
 
 
 all: $(EXE)
 
-$(EXE): datacardcontrol.cpp
-	g++ $(CXXFLAGS) datacardcontrol.cpp -o $(EXE) -I$(ASIOINCLUDE) -lws2_32
+$(EXE): $(SRCDIR)/datacardcontrol.cpp
+	g++ $(CXXFLAGS) $< -o $@  -lws2_32
 
 test: test.exe
 
-test.exe: udptest.cpp
-	g++ $(CXXFLAGS) udptest.cpp -o test.exe -I$(ASIOINCLUDE) -lws2_32
+test.exe: $(TESTDIR)/udptest.cpp
+	g++ $(CXXFLAGS)  $< -o $@ -lws2_32
 
 format: format.exe
 
-format.exe: formattest.cpp
-	g++ $(CXXFLAGS) formattest.cpp -o format.exe -lws2_32
+format.exe: $(TESTDIR)/formattest.cpp
+	g++ $(CXXFLAGS)  $< -o $@ -lws2_32

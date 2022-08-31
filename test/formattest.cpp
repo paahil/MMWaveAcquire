@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <cstring>
 int main(){
     int* test = (int*)calloc(100, sizeof(int));
     std::cout << sizeof(test) << "\n";

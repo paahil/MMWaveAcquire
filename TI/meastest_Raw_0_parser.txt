@@ -1,0 +1,4 @@
+
+****** HW session Frame 0 ******
+frameIdx = 0
+subframeIdx = 0
