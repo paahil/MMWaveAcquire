@@ -192,6 +192,7 @@ DWORD WINAPI StoreData(LPVOID piper) {
   for (int i = 0; i < CHIRP::CHANNELNUM; i++) {
     fclose(fptrs[i]);
   }
+  return 0;
 }
 
 DWORD WINAPI ProcessStream(LPVOID pipew) {
@@ -281,8 +282,8 @@ int main() {
   char acquire = 1;
   contacquire.lock();
   printf("jee");
-  PHANDLE piper, pipew;
-  BOOL ret = CreatePipe(piper, pipew, NULL, 0);
+  HANDLE piper, pipew;
+  BOOL ret = CreatePipe(&piper, &pipew, NULL, 0);
   printf("%d", ret);
   HANDLE savethr = CreateThread(NULL, 0, StoreData, piper, 0, NULL);
   HANDLE datathr = CreateThread(NULL, 0, ProcessStream, pipew, 0, NULL);
